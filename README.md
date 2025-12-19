@@ -6,11 +6,11 @@
 MCA Graduate | Python & Machine Learning
 
 
-📌 <h3>Overview</h3>
+<h3>📌 Overview</h3>
 
 This project focuses on building a privacy-preserving and secure machine learning system that protects sensitive data during model training and evaluation. It implements encryption and privacy techniques to ensure data confidentiality while maintaining model performance.
 
-🔐 <h3>Key Features</h3>
+<h3>🔐 Key Features</h3>
 
 Homomorphic Encryption for computation on encrypted data
 
@@ -24,7 +24,7 @@ Privacy-preserving data preprocessing
 
 Performance evaluation using standard ML metrics
 
-🛠 <h3>Technologies Used</3>
+<h3>🛠 Technologies Used</3>
 
 Python
 
@@ -36,13 +36,13 @@ Matplotlib
 
 Tkinter (GUI)
 
-📊 <h3>Machine Learning Models</h3>
+<h3>📊 Machine Learning Models</h3>
 
 Logistic Regression
 
 Decision Tree Classifier
 
-📂 <h3>Project Modules</h3>
+<h3>📂 Project Modules</h3>
 
 Data Loading and Preprocessing
 
@@ -54,7 +54,7 @@ Result Visualization
 
 GUI-Based Interaction
 
-📈 <h3>Evaluation Metrics</h3>
+<h3>📈 Evaluation Metrics</h3>
 
 Accuracy
 
@@ -64,7 +64,7 @@ Recall
 
 F1-Score
 
-🚀 <h3>How to Run the Project</h3>
+<h3>🚀 How to Run the Project</h3>
 
 Clone the repository
 
@@ -80,6 +80,6 @@ Run the application
 
 python main.py
 
-🎯 <h3>Use Case</h3>
+<h3>🎯 Use Case</h3>
 
 Designed for secure analysis of sensitive datasets such as healthcare or financial data, where data privacy and security are critical.
