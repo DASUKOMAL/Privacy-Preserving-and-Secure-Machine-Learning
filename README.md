@@ -24,7 +24,7 @@ Privacy-preserving data preprocessing
 
 Performance evaluation using standard ML metrics
 
-<h3>🛠 Technologies Used</3>
+<h3>🛠 Technologies Used</h3>
 
 Python
 
